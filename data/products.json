@@ -1,99 +1,195 @@
 {
   "produits": [
-  {
-    "nom": "Pièce Montée Mariage",
-    "ingredients": ["Génoise", "Crème beurre", "Pâte à sucre", "Fleurs fraîches", "Décor doré"],
-    "image": "assets/produits/piece-montee-mariage.jpeg"
-  },
-  {
-    "nom": "Fondant Chocolat, Glaçage Miroir",
-    "ingredients": ["Chocolat noir", "Beurre", "Œufs", "Glaçage miroir cacao"],
-    "image": "assets/produits/fondant-chocolat-glacage-miroir.jpeg"
-  },
-  {
-    "nom": "Entremets Fraise-Pistache",
-    "ingredients": ["Biscuit amande", "Mousse pistache", "Fraises fraîches", "Nappage fraise"],
-    "image": "assets/produits/entremet-fraise-pistache.jpeg"
-  },
-  {
-    "nom": "Entremets Chocolat-Caramel",
-    "ingredients": ["Génoise chocolat", "Caramel beurre salé", "Glaçage miroir caramel"],
-    "image": "assets/produits/entremet-chocolat-caramel.jpeg"
-  },
-  {
-    "nom": "Bombe Mangue-Passion",
-    "ingredients": ["Mousse mangue", "Cœur fruit de la passion", "Glaçage miroir", "Décor sucre"],
-    "image": "assets/produits/bombe-mangue-passion.jpeg"
-  },
-  {
-    "nom": "Ghraiba Pistache",
-    "ingredients": ["Semoule fine", "Beurre", "Sucre glace", "Pistaches"],
-    "image": "assets/produits/ghraiba-pistache.jpeg"
-  },
-  {
-    "nom": "Boules Sésame, Chocolat & Amande",
-    "ingredients": ["Pâte cacaotée", "Graines de sésame", "Amandes entières"],
-    "image": "assets/produits/boules-sesame-chocolat-amande.jpeg"
-  },
-  {
-    "nom": "Financiers Amande, Chocolat Blanc & Or",
-    "ingredients": ["Poudre d'amande", "Beurre noisette", "Ganache chocolat blanc", "Amandes effilées", "Feuille d'or"],
-    "image": "assets/produits/financiers-amande-chocolat-blanc.jpeg"
-  },
-  {
-    "nom": "Cookie Fondant Caramel-Chocolat",
-    "ingredients": ["Pâte à cookie", "Caramel", "Chocolat au lait", "Noisettes", "Pistaches"],
-    "image": "assets/produits/cookie-fondant-caramel-chocolat.jpeg"
-  },
-  {
-    "nom": "Tartelettes Gourmandes Assorties",
-    "ingredients": ["Pâte sablée", "Crème pâtissière", "Fruits frais", "Chocolat", "Biscuits spéculoos"],
-    "image": "assets/produits/tartelettes-gourmandes-assorties.jpeg"
-  },
-  {
-    "nom": "Carré Chocolat Marbré",
-    "ingredients": ["Biscuit chocolat", "Glaçage chocolat au lait", "Filet chocolat blanc"],
-    "image": "assets/produits/carre-chocolat-marbre.jpeg"
-  },
-  {
-    "nom": "Cheesecake Vanille & Chantilly",
-    "ingredients": ["Fromage frais", "Vanille", "Biscuit sablé", "Chantilly pipée"],
-    "image": "assets/produits/cheesecake-vanille-chantilly.jpeg"
-  },
-  {
-    "nom": "Cheesecake Oreo",
-    "ingredients": ["Fromage frais", "Biscuits Oreo", "Ganache chocolat noir"],
-    "image": "assets/produits/cheesecake-oreo.jpeg"
-  },
-  {
-    "nom": "Cheesecake Traditionnel",
-    "ingredients": ["Fromage frais", "Œufs", "Sucre", "Biscuit sablé"],
-    "image": "assets/produits/cheesecake-traditionnel.jpeg"
-  },
-  {
-    "nom": "Verrine Trianon Noisette",
-    "ingredients": ["Biscuit croustillant praliné", "Mousse chocolat", "Chocolat praliné-noisette"],
-    "image": "assets/produits/verrine-trianon-noisette.jpeg"
-  },
-  {
-    "nom": "Verrine Gourmande \"Sourire\"",
-    "ingredients": ["Biscuit spéculoos", "Chantilly mascarpone", "Langues de chat", "Chocolat"],
-    "image": "assets/produits/verrine-sourire.jpeg"
-  },
-  {
-    "nom": "Bûche Praliné Noisette",
-    "ingredients": ["Praliné noisette", "Éclats de noisettes", "Glaçage blond", "Caramel"],
-    "image": "assets/produits/buche-praline-noisette.jpeg"
-  },
-  {
-    "nom": "Plateau Mignardises & Sablés Chocolat-Noisette",
-    "ingredients": ["Pâte sablée", "Ganache chocolat-noisette", "Chocolat au lait", "Amandes"],
-    "image": "assets/produits/mignardises-sables-chocolat-noisette.jpeg"
-  },
-  {
-    "nom": "Fondant Chocolat, Fruits Frais & Tuile",
-    "ingredients": ["Génoise chocolat", "Glaçage miroir cacao", "Fraises", "Kiwi", "Tuile croustillante"],
-    "image": "assets/produits/fondant-chocolat-fruits-frais.jpeg"
-  }
+    {
+      "nom": "Pièce Montée Mariage",
+      "ingredients": [
+        "Génoise",
+        "Crème beurre",
+        "Pâte à sucre",
+        "Fleurs fraîches",
+        "Décor doré",
+        " neww ing"
+      ],
+      "image": "assets/produits/piece-montee-mariage.jpeg"
+    },
+    {
+      "nom": "Fondant Chocolat, Glaçage Miroir",
+      "ingredients": [
+        "Chocolat noir",
+        "Beurre",
+        "Œufs",
+        "Glaçage miroir cacao"
+      ],
+      "image": "assets/produits/fondant-chocolat-glacage-miroir.jpeg"
+    },
+    {
+      "nom": "Entremets Fraise-Pistache",
+      "ingredients": [
+        "Biscuit amande",
+        "Mousse pistache",
+        "Fraises fraîches",
+        "Nappage fraise"
+      ],
+      "image": "assets/produits/entremet-fraise-pistache.jpeg"
+    },
+    {
+      "nom": "Entremets Chocolat-Caramel",
+      "ingredients": [
+        "Génoise chocolat",
+        "Caramel beurre salé",
+        "Glaçage miroir caramel"
+      ],
+      "image": "assets/produits/entremet-chocolat-caramel.jpeg"
+    },
+    {
+      "nom": "Bombe Mangue-Passion",
+      "ingredients": [
+        "Mousse mangue",
+        "Cœur fruit de la passion",
+        "Glaçage miroir",
+        "Décor sucre"
+      ],
+      "image": "assets/produits/bombe-mangue-passion.jpeg"
+    },
+    {
+      "nom": "Ghraiba Pistache",
+      "ingredients": [
+        "Semoule fine",
+        "Beurre",
+        "Sucre glace",
+        "Pistaches"
+      ],
+      "image": "assets/produits/ghraiba-pistache.jpeg"
+    },
+    {
+      "nom": "Boules Sésame, Chocolat & Amande",
+      "ingredients": [
+        "Pâte cacaotée",
+        "Graines de sésame",
+        "Amandes entières"
+      ],
+      "image": "assets/produits/boules-sesame-chocolat-amande.jpeg"
+    },
+    {
+      "nom": "Financiers Amande, Chocolat Blanc & Or",
+      "ingredients": [
+        "Poudre d'amande",
+        "Beurre noisette",
+        "Ganache chocolat blanc",
+        "Amandes effilées",
+        "Feuille d'or"
+      ],
+      "image": "assets/produits/financiers-amande-chocolat-blanc.jpeg"
+    },
+    {
+      "nom": "Cookie Fondant Caramel-Chocolat",
+      "ingredients": [
+        "Pâte à cookie",
+        "Caramel",
+        "Chocolat au lait",
+        "Noisettes",
+        "Pistaches"
+      ],
+      "image": "assets/produits/cookie-fondant-caramel-chocolat.jpeg"
+    },
+    {
+      "nom": "Tartelettes Gourmandes Assorties",
+      "ingredients": [
+        "Pâte sablée",
+        "Crème pâtissière",
+        "Fruits frais",
+        "Chocolat",
+        "Biscuits spéculoos"
+      ],
+      "image": "assets/produits/tartelettes-gourmandes-assorties.jpeg"
+    },
+    {
+      "nom": "Carré Chocolat Marbré",
+      "ingredients": [
+        "Biscuit chocolat",
+        "Glaçage chocolat au lait",
+        "Filet chocolat blanc"
+      ],
+      "image": "assets/produits/carre-chocolat-marbre.jpeg"
+    },
+    {
+      "nom": "Cheesecake Vanille & Chantilly",
+      "ingredients": [
+        "Fromage frais",
+        "Vanille",
+        "Biscuit sablé",
+        "Chantilly pipée"
+      ],
+      "image": "assets/produits/cheesecake-vanille-chantilly.jpeg"
+    },
+    {
+      "nom": "Cheesecake Oreo",
+      "ingredients": [
+        "Fromage frais",
+        "Biscuits Oreo",
+        "Ganache chocolat noir"
+      ],
+      "image": "assets/produits/cheesecake-oreo.jpeg"
+    },
+    {
+      "nom": "Cheesecake Traditionnel",
+      "ingredients": [
+        "Fromage frais",
+        "Œufs",
+        "Sucre",
+        "Biscuit sablé"
+      ],
+      "image": "assets/produits/cheesecake-traditionnel.jpeg"
+    },
+    {
+      "nom": "Verrine Trianon Noisette",
+      "ingredients": [
+        "Biscuit croustillant praliné",
+        "Mousse chocolat",
+        "Chocolat praliné-noisette"
+      ],
+      "image": "assets/produits/verrine-trianon-noisette.jpeg"
+    },
+    {
+      "nom": "Verrine Gourmande \"Sourire\"",
+      "ingredients": [
+        "Biscuit spéculoos",
+        "Chantilly mascarpone",
+        "Langues de chat",
+        "Chocolat"
+      ],
+      "image": "assets/produits/verrine-sourire.jpeg"
+    },
+    {
+      "nom": "Bûche Praliné Noisette",
+      "ingredients": [
+        "Praliné noisette",
+        "Éclats de noisettes",
+        "Glaçage blond",
+        "Caramel"
+      ],
+      "image": "assets/produits/buche-praline-noisette.jpeg"
+    },
+    {
+      "nom": "Plateau Mignardises & Sablés Chocolat-Noisette",
+      "ingredients": [
+        "Pâte sablée",
+        "Ganache chocolat-noisette",
+        "Chocolat au lait",
+        "Amandes"
+      ],
+      "image": "assets/produits/mignardises-sables-chocolat-noisette.jpeg"
+    },
+    {
+      "nom": "Fondant Chocolat, Fruits Frais & Tuile",
+      "ingredients": [
+        "Génoise chocolat",
+        "Glaçage miroir cacao",
+        "Fraises",
+        "Kiwi",
+        "Tuile croustillante"
+      ],
+      "image": "assets/produits/fondant-chocolat-fruits-frais.jpeg"
+    }
   ]
 }
