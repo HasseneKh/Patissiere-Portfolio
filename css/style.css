@@ -10,6 +10,7 @@
   --font-display:'Fraunces', serif;
   --font-body:'Work Sans', sans-serif;
   --font-mono:'IBM Plex Mono', monospace;
+  --font-arabic:'Tajawal', sans-serif;
 
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
@@ -76,6 +77,7 @@ p{margin:0;}
   letter-spacing:.02em;
 }
 .logo-dot{color:var(--framboise);}
+.header-right{display:flex; align-items:center; gap:36px;}
 .main-nav{display:flex; align-items:center; gap:36px;}
 .main-nav a{
   font-size:.95rem;
@@ -110,6 +112,31 @@ p{margin:0;}
 .nav-toggle span{
   display:block; height:2px; width:100%; background:var(--chocolat);
   transition: transform .3s var(--ease-in-out), opacity .3s var(--ease-in-out);
+}
+
+/* Language switch */
+.lang-switch{
+  display:flex; align-items:center; gap:4px;
+  padding:3px;
+  border:1px solid rgba(46,29,20,.14);
+  border-radius:999px;
+}
+.lang-btn{
+  font-family:var(--font-mono);
+  font-size:.68rem;
+  letter-spacing:.03em;
+  padding:6px 10px;
+  border:none;
+  border-radius:999px;
+  background:transparent;
+  color:var(--chocolat-soft);
+  cursor:pointer;
+  transition:background .25s var(--ease-in-out), color .25s var(--ease-in-out);
+}
+.lang-btn:hover{color:var(--chocolat);}
+.lang-btn.active{
+  background:var(--chocolat);
+  color:var(--creme);
 }
 
 /* Buttons */
@@ -355,7 +382,8 @@ p{margin:0;}
 }
 
 /* Gallery */
-.gallery-note{color:var(--chocolat-soft); margin-bottom:40px; font-size:.95rem; max-width:56ch;}
+.gallery-note{color:var(--chocolat-soft); margin-bottom:10px; font-size:.95rem; max-width:56ch;}
+.gallery-auto-note{color:var(--caramel); font-size:.8rem; font-style:italic; margin-bottom:30px; display:none;}
 .gallery-grid{
   display:grid;
   grid-template-columns:repeat(auto-fill, minmax(260px, 1fr));
@@ -485,4 +513,28 @@ a.contact-row:hover .contact-icon{transform:scale(1.1); border-color:var(--or); 
   .nav-toggle.open span:nth-child(3){transform:translateY(-8px) rotate(-45deg);}
   .section{padding:48px 0;}
   .wrap{padding:0 22px;}
+  .header-right{gap:14px;}
+  .lang-switch{padding:2px;}
+  .lang-btn{padding:5px 7px; font-size:.62rem;}
 }
+
+/* RTL (Arabic) */
+:root[dir="rtl"] body,
+:root[dir="rtl"] h1, :root[dir="rtl"] h2, :root[dir="rtl"] h3,
+:root[dir="rtl"] .eyebrow, :root[dir="rtl"] .section-eyebrow,
+:root[dir="rtl"] .fact-label, :root[dir="rtl"] .contact-label,
+:root[dir="rtl"] .hero-role, :root[dir="rtl"] .timeline-date,
+:root[dir="rtl"] .f-date, :root[dir="rtl"] .logo,
+:root[dir="rtl"] .lang-btn, :root[dir="rtl"] .skill-chip,
+:root[dir="rtl"] .ingredient-list li{
+  font-family:var(--font-arabic);
+}
+:root[dir="rtl"] .timeline::before{left:auto; right:8px;}
+:root[dir="rtl"] .timeline-item{padding:0 40px 48px 0;}
+:root[dir="rtl"] .timeline-item::before{left:auto; right:0;}
+:root[dir="rtl"] .badge-swirl{right:auto; left:-14px;}
+:root[dir="rtl"] .main-nav a:not(.nav-cta)::after{
+  left:100%; right:0; transition:left .3s var(--ease-out);
+}
+:root[dir="rtl"] .main-nav a:not(.nav-cta):hover::after{left:0;}
+

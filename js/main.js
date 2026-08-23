@@ -66,7 +66,8 @@ function renderGallery(products) {
   observeReveals();
 }
 
-loadProducts().then(renderGallery);
+window.loadProducts = loadProducts;
+window.renderGallery = renderGallery;
 
 /* Scroll reveal */
 let observer;
