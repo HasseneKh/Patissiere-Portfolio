@@ -1,10 +1,10 @@
 {
   "produits": [
     {
-      "nom": "Pièce Montée Mariage",
+      "nom": "Pièce Montée Mariage, Fiançailles ",
       "ingredients": [
         "Génoise",
-        "Crème beurre",
+        "Crème au beurre",
         "Pâte à sucre",
         "Fleurs fraîches",
         "Décor doré"
@@ -12,22 +12,22 @@
       "image": "assets/produits/piece-montee-mariage.jpeg"
     },
     {
-      "nom": "Fondant Chocolat, Glaçage Miroir",
+      "nom": "Sacher chocolat  ",
       "ingredients": [
         "Chocolat noir",
         "Beurre",
         "Œufs",
-        "Glaçage miroir cacao"
+        "Glaçage miroir"
       ],
       "image": "assets/produits/fondant-chocolat-glacage-miroir.jpeg"
     },
     {
-      "nom": "Entremets Fraise-Pistache",
+      "nom": "Fraisier",
       "ingredients": [
-        "Biscuit amande",
-        "Mousse pistache",
+        "Gènoise",
+        " pistache",
         "Fraises fraîches",
-        "Nappage fraise"
+        "crème"
       ],
       "image": "assets/produits/entremet-fraise-pistache.jpeg"
     },
@@ -41,12 +41,12 @@
       "image": "assets/produits/entremet-chocolat-caramel.jpeg"
     },
     {
-      "nom": "Bombe Mangue-Passion",
+      "nom": "Trompe l'oeil citron ",
       "ingredients": [
-        "Mousse mangue",
-        "Cœur fruit de la passion",
+        "Mousse au citron",
+        "chocolat blanc",
         "Glaçage miroir",
-        "Décor sucre"
+        "Génoise"
       ],
       "image": "assets/produits/bombe-mangue-passion.jpeg"
     },
