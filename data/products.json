@@ -189,6 +189,18 @@
         "Tuile croustillante"
       ],
       "image": "assets/produits/fondant-chocolat-fruits-frais.jpeg"
+    },
+    {
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.37.55.jpeg",
+      "nom": "Eclair au fondant",
+      "ingredients": [
+        "Pâte à choux",
+        "Fondant "
+      ]
+    },
+    {
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.04.jpeg",
+      "nom": "Cake marbré au chocolat "
     }
   ]
 }
