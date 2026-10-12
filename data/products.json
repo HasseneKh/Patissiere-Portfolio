@@ -12,7 +12,7 @@
       "image": "assets/produits/piece-montee-mariage.jpeg"
     },
     {
-      "nom": "Sacher chocolat  ",
+      "nom": "Sacher Chocolat  ",
       "ingredients": [
         "Chocolat noir",
         "Beurre",
@@ -192,7 +192,7 @@
     },
     {
       "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.37.55.jpeg",
-      "nom": "Eclair au fondant",
+      "nom": "Eclair au Fondant",
       "ingredients": [
         "Pâte à choux",
         "Fondant "
@@ -200,7 +200,54 @@
     },
     {
       "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.04.jpeg",
-      "nom": "Cake marbré au chocolat "
+      "nom": "Cake Marbré au Chocolat "
+    },
+    {
+      "nom": "Cheescake Tiramisu",
+      "ingredients": [
+        "Biscuit Long de Chat",
+        "Mascarpone ",
+        "Cacao"
+      ],
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.04-1-.jpeg"
+    },
+    {
+      "nom": "Assortiment de Petits Fours Sucrés",
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.04-2-.jpeg",
+      "ingredients": [
+        "Boules au Chocolat",
+        "Petits fours",
+        "Financier",
+        "Mini Brownies",
+        "Biscuit Soleil"
+      ]
+    },
+    {
+      "nom": "Assortiment de Pièces Salées ",
+      "ingredients": [
+        "Mini-burgers",
+        "Mini-pizzas",
+        "Brik tunisien ",
+        "Boule fromage ",
+        "Batbout "
+      ],
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.14.jpeg"
+    },
+    {
+      "nom": "Tartelettes au Chocolat",
+      "ingredients": [
+        "Pâte sucrée",
+        "Éclats de chocolat croustillants"
+      ],
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.14-3-.jpeg"
+    },
+    {
+      "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.38.14-3-.jpeg",
+      "nom": "Saint-Sébastien",
+      "ingredients": [
+        "Sucre glace",
+        "Fromage"
+      ]
     }
   ]
 }
