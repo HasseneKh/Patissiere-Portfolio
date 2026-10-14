@@ -43,7 +43,7 @@ const TRANSLATIONS = {
 
     exp_eyebrow: "03 — Le parcours",
     exp_title: "Expérience professionnelle",
-    exp1_date: "Déc 2025 — Août 2026",
+    exp1_date: "Décembre 2025 — Septembre 2026",
     exp1_role: "Pâtissière",
     exp1_place: "Marrakech Coffee Lounge, Gabès",
     exp1_desc: "Conception et réalisation des pâtisseries, desserts et viennoiseries ; élaboration de nouvelles recettes pour la clientèle du coffee lounge ; encadrement de l'équipe, gestion des stocks et des coûts, respect des normes HACCP.",
@@ -119,7 +119,7 @@ const TRANSLATIONS = {
 
     exp_eyebrow: "03 — Journey",
     exp_title: "Professional Experience",
-    exp1_date: "Dec 2025 — Aug 2026",
+    exp1_date: "December 2025 — September 2026",
     exp1_role: "Pastry Chef",
     exp1_place: "Marrakech Coffee Lounge, Gabès",
     exp1_desc: "Designing and preparing pastries, desserts and viennoiseries; developing new recipes for the coffee lounge's clientele; supervising the team, managing stock and costs, and complying with HACCP standards.",
@@ -195,7 +195,7 @@ const TRANSLATIONS = {
 
     exp_eyebrow: "03 — المسار المهني",
     exp_title: "الخبرة المهنية",
-    exp1_date: "ديسمبر 2025 — أغسطس 2026",
+    exp1_date: "ديسمبر 2025 — سبتمبر 2026",
     exp1_role: "شيف حلويات",
     exp1_place: "Marrakech Coffee Lounge, Gabès",
     exp1_desc: "تصميم وإعداد الحلويات والمعجنات والفطائر؛ ابتكار وصفات جديدة لعملاء الكوفي لاونج؛ الإشراف على الفريق، وإدارة المخزون والتكاليف، والالتزام بمعايير السلامة الغذائية (HACCP).",
@@ -271,7 +271,7 @@ const TRANSLATIONS = {
 
     exp_eyebrow: "03 — Werdegang",
     exp_title: "Berufserfahrung",
-    exp1_date: "Dez 2025 — Aug 2026",
+    exp1_date: "Dezember 2025 — September 2026",
     exp1_role: "Konditorin",
     exp1_place: "Marrakech Coffee Lounge, Gabès",
     exp1_desc: "Konzeption und Zubereitung von Patisserie, Desserts und Feingebäck; Entwicklung neuer Rezepte für die Gäste der Coffee Lounge; Führung des Teams, Bestands- und Kostenmanagement sowie Einhaltung der HACCP-Standards.",
@@ -347,7 +347,7 @@ const TRANSLATIONS = {
 
     exp_eyebrow: "03 — Trayectoria",
     exp_title: "Experiencia profesional",
-    exp1_date: "Dic 2025 — Ago 2026",
+    exp1_date: "Diciembre 2025 — Septiembre 2026",
     exp1_role: "Pastelera",
     exp1_place: "Marrakech Coffee Lounge, Gabes",
     exp1_desc: "Diseño y elaboración de pastelería, postres y bollería; creación de nuevas recetas para la clientela del coffee lounge; supervisión del equipo, gestión de existencias y costes, y cumplimiento de las normas HACCP.",
