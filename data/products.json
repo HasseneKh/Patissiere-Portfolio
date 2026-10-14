@@ -140,17 +140,6 @@
       "image": "assets/produits/buche-praline-noisette.jpeg"
     },
     {
-      "nom": "Fondant Chocolat, Fruits Frais & Tuile",
-      "ingredients": [
-        "Génoise chocolat",
-        "Glaçage miroir cacao",
-        "Fraises",
-        "Kiwi",
-        "Tuile croustillante"
-      ],
-      "image": "assets/produits/fondant-chocolat-fruits-frais.jpeg"
-    },
-    {
       "image": "/assets/produits/whatsapp-image-2026-10-12-at-00.37.55.jpeg",
       "nom": "Eclair au Fondant",
       "ingredients": [
@@ -206,6 +195,47 @@
       "nom": "Saint-Sébastien",
       "ingredients": [
         "Sucre glace",
+        "Fromage"
+      ]
+    },
+    {
+      "nom": "Millefeuille Pistache",
+      "image": "/assets/produits/whatsapp-image-2026-10-14-at-20.37.30-8-.jpeg",
+      "ingredients": [
+        "Pate feuilletée",
+        "Praliné pistache"
+      ]
+    },
+    {
+      "nom": "Russe pistache",
+      "ingredients": [
+        "Praliné Pistche",
+        "Daquoise pistache"
+      ],
+      "image": "/assets/produits/whatsapp-image-2026-10-14-at-20.37.30-2-.jpeg"
+    },
+    {
+      "nom": "Verrine Cheesecake",
+      "image": "/assets/produits/whatsapp-image-2026-10-14-at-20.37.30.jpeg",
+      "ingredients": [
+        "Biscuit",
+        "Crème cheese"
+      ]
+    },
+    {
+      "nom": "Gâteau Caramélisé",
+      "image": "/assets/produits/whatsapp-image-2026-10-14-at-20.37.30-5-.jpeg",
+      "ingredients": [
+        "Sauce ",
+        "Caramel "
+      ]
+    },
+    {
+      "nom": "Cheesecake Spéculoos",
+      "image": "/assets/produits/whatsapp-image-2026-10-14-at-20.37.30-9-.jpeg",
+      "ingredients": [
+        "Biscuit spéculoos",
+        "Pâte spéculoos",
         "Fromage"
       ]
     }
